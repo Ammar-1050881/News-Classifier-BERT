@@ -4,3 +4,4 @@ __pycache__/
 results/
 logs/
 *.parquet
+news_classifier_bert/
